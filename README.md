@@ -54,5 +54,5 @@ Contributions are welcome! Please open an issue or submit a pull request with yo
 
 ## License
 
-**Author:** [Akalanka Palliyaguruge](https://github.com/akalankapalliyaguruge)
+Author:[Akalanka Palliyaguruge](https://github.com/akalankapalliyaguruge)
 ````
