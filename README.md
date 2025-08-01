@@ -46,6 +46,6 @@ Contributions are welcome! Please open an issue or submit a pull request with yo
 ## License
 
 Authors: Akalanka Palliyaguruge (https://github.com/akalankapalliyaguruge)
-Pasindu Chamod (https://github.com/Pasindu-Chamod)
+Pasindu Chamod (https://github.com/pasindu-chamod)
 Asuru Mahanama
 ````
