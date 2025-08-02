@@ -27,8 +27,8 @@ The DigitalStudentIDSystem is a modern solution for managing and issuing digital
 
 ### Installation
 
-1. Clone the repository:
-2. Navigate to the project directory:
+1. Clone the repository.
+2. Navigate to the project directory.
 3. Install dependencies.
 4. Configure database settings in the configuration file.
 5. Run the application.
@@ -45,7 +45,10 @@ Contributions are welcome! Please open an issue or submit a pull request with yo
 
 ## License
 
-Authors: Akalanka Palliyaguruge (https://github.com/akalankapalliyaguruge)
-Pasindu Chamod (https://github.com/pasindu-chamod)
+Authors: 
+Akalanka Palliyaguruge
+(https://github.com/akalankapalliyaguruge)
+Pasindu Chamod
+(https://github.com/pasindu-chamod)
 Asuru Mahanama
 ````
